@@ -1,0 +1,1 @@
+In week 1 task, I learned a lot about scripting to make folders and files, remove files, move files, etc. And I think, this made my programming skill increase. Because, scripting is one of special skill that only owned by programmer. 
