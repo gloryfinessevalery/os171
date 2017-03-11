@@ -1,0 +1,10 @@
+w04-170307-13-LS-About: Pointer, From: Lecturer
+w04-170307-13-LS-About: Pointer, From: Lecturer
+w04-170307-14-LS-About: Pointer, From: Lecturer
+w04-170309-13-LS-About: I/O Exercises, From: Lecturer
+w04-170309-13-LS-About: I/O Exercises, From: Lecturer
+w04-170309-14-LS-About: I/O Exercises, From: Lecturer
+w04-170311-12-PS-Do week 4 task
+w04-170311-12-PS-Do week 4 task
+w04-170311-13-PS-Do week 4 task
+w04-170311-13-PS-Do week 4 task
